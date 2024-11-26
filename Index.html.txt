@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<!-- This code is about list -->
+<h1> Order lists </h1>
+<p> Favorite sports  </p>
+	<ol>
+    <li> Cricket </li>
+	<li> Football </li>
+    <li> Badminton </li>
+    <li> Hocky </li>
+    </ol>
+    
+<h1>  Unorder List </h1>
+<p> Favourite Player </p>
+  <ul>
+  <li> Son Heung-min </li>
+  <li> Messi </li>
+  <li> Jamal Bhuiyan </li>
+  <li> Neymer </li>
+  <li> Ronaldo </li>
+	</ul>  
+
+<h1>  Nested List </h1>
+<p> Favourite sports and Player </p>
+<ul>
+  <li> Cricket</li>
+  <ol>
+  <li> Sakib Al Hasan </li>
+  <li> Chris gayle </li>
+  <li> Tamim Iqbal </li>
+  <li>  Babar Azam </li>
+  <li> Glenn Maxwell </li>
+  </ol>
+	</ul>  
+  <ul>
+  <li> Football</li>
+  <ol>
+  <li> Son Heung-min </li>
+  <li> Messi </li>
+  <li> Jamal Bhuiyan </li>
+  <li> Neymer </li>
+  <li> Ronaldo </li>
+  </ol>
+	</ul>  
+<dl>
+<dt><b>Food </b></dt>
+<dt><b>Suchi </b></dt>
+<a><a href="https://en.wikipedia.org/wiki/Sushi"> <img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sushi_platter.jpg/300px-Sushi_platter.jpg" width="200" height="200"></a>
+
+
+
+<dd><a href="https://en.wikipedia.org/wiki/Sushi">Suchi</a> (寿司 or 鮨) is the most famous Japanese dish outside of Japan, and one of the most popular dishes among the Japanese. Sushi (すし, 寿司, 鮨, 鮓, pronounced [sɯɕiꜜ] or [sɯꜜɕi] ⓘ) is a Japanese dish of prepared vinegared rice (鮨飯, sushi-meshi), usually with some sugar and salt, plus a variety of ingredients (ねた, neta), such as vegetables, meat, or most commonly, seafood, which may be raw or cooked. There are many styles of sushi, and its presentation varies widely, but the one key ingredient is "sushi rice", also referred to as shari (しゃり), or sumeshi (酢飯). </dd>
+
+
+<dt><b>Computer</b></dt>
+<a><a href="https://en.wikipedia.org/wiki/Computer"> <img src= "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/IBM_System360_Mainframe.jpg/149px-IBM_System360_Mainframe.jpg" width="200" height="200"> </a>
+
+
+<dd><br>A
+<a href="https://en.wikipedia.org/wiki/Computer">Computer</a>  is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (computation). Modern digital electronic computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks. The term computer system may refer to a nominally complete computer that includes the hardware, operating system, software, and peripheral equipment needed and used for full operation; or to a group of computers that are linked and function together, such as a computer network or computer cluster. </dd>
+</dl>
+<p>
+<a href="mailto:imtiajahmed15@gmail.com">Contact me</a>
+</p>
+</body>
+</html>
